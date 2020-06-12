@@ -5,5 +5,5 @@ wget https://raw.githubusercontent.com/Moexin/Python3.6.4-OneKey/master/CentOS-P
 ```
 ## Debian系统
 ```shell
-wget https://raw.githubusercontent.com/Moexin/Python3.6.4-OneKey/master/Debian-Python3.6.4.sh && sh Debian-Python3.6.4.sh
+wget https://github.com/gnhzww/Python-OneKey/blob/master/Debian-Python.sh && sh Debian-Python.sh
 ```
